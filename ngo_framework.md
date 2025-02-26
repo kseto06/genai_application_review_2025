@@ -53,6 +53,6 @@ for pair in reviews.keys():
 
 ```
 
-1.3) **Reviewing Process:** The committee shall review applicants in accordance to the provided rubric (although individual judgement is also important). Reviewers will give a score from 0-12(?). If an applicant scores above a certain threshold (threshold > 8? -- needs to be decided), then they pass and can participate in the hackathon.
+1.3) **Reviewing Process:** The committee shall review applicants in accordance to the provided rubric (although individual judgement is also important). Reviewers will give a score from 0-12. Note that there is no given constraint or threshold to decide whether a person passes or not -- the score and rubric is just there to help you guide your thinking and decision-making on whether or not to accept the candidate.  
 
 2.1) **Consistency:** The committee shall be provided with a few example scoring case studies/scenarios (maybe from past years) to help familiarize themselves with *scoring through comparison/how to score applicants*, which will help them learn how to score and differentiate applicants.
